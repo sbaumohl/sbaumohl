@@ -1,7 +1,7 @@
 ### 👋 Hello there! I’m @sbaumohl
-### 🎯 I'm a developer from Saint Louis, Missouri attending the University of Wisconsin-Madison.
+### 🎯 I'm a developer from Saint Louis, Missouri, attending the University of Wisconsin-Madison.
 
-I have expierience in:
+I have experience in:
 - NodeJs
 - Angular
 - React
