@@ -16,7 +16,7 @@ I have experience in:
 ### 🪚 I'm currently working on:
 - A Rust/Graphql/React [Infrographic](https://github.com/sbaumohl/CongressionalFundraisingViz) Website for Campaign Finance Data
 - Building Branded Experiences in Fortnite with [Beyond Creative](https://beyondcreative.gg)
-- Schoolwork (Programming III, Discrete Mathematics)
+- Schoolwork (Algorithms, Computer Architecture, Linear Algebra)
 
 Find me on:
 - [Linkedin](https://www.linkedin.com/in/sam-baumohl09/)
