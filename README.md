@@ -13,11 +13,6 @@ I have experience in:
 - Rust
 - Java
 
-### 🪚 I'm currently working on:
-- A Rust/Graphql/React [Infrographic](https://github.com/sbaumohl/CongressionalFundraisingViz) Website for Campaign Finance Data
-- Building Branded Experiences in Fortnite with [Beyond Creative](https://beyondcreative.gg)
-- Schoolwork (Algorithms, Computer Architecture, Linear Algebra)
-
 Find me on:
 - [Linkedin](https://www.linkedin.com/in/sam-baumohl09/)
 - [My Personal Website](https://www.sambaumohl.com/)
